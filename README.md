@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> Hi there
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=A-Kevin1217&show_icons=true&theme=github_dark">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=oxoax&show_icons=true&theme=github_dark">
 
 🙋‍♂️ I'm
 @知鱼~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
@@ -10,8 +10,8 @@
 ⚛️ I'm trying to improve my programming skills
 <br>
 <h4>
-<a href="https://github.com/oxoax">
-<img align="right" src="http://api.ocoa.cn/api/mcj.php?type=image" alt="知鱼" />
+<a href="https://github.com/CodeGetters">
+<img align="right" src="https://count.kjchmc.cn/get/@orange-example?theme=rule34" alt="知鱼" />
 </a>
 </h3>
 
@@ -40,13 +40,13 @@
 [//]: # (blog：[![Blog]&#40;https://img.shields.io/badge/-Blog-07c160?logo=Micro.blog&logoColor=black&#41;]&#40;http://reday.asia&#41;)
 
 
-[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=A-Kevin1217&layout=compact"/>)
+[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=oxoax&layout=compact"/>)
 
-[//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=A-Kevin1217&theme=github&#41;)
+[//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=oxoax&theme=github&#41;)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxoax/oxoax/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oxoax/oxoax/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!---

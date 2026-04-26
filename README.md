@@ -11,7 +11,7 @@
 <br>
 <h4>
 <a href="https://github.com/CodeGetters">
-<img align="right" src="https://count.kjchmc.cn/get/@orange-example?theme=rule34" alt="知鱼" />
+<img align="right" src="http://api.ocoa.cn/api/mcj.php?type=image" alt="知鱼" />
 </a>
 </h3>
 
@@ -45,8 +45,8 @@
 [//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=oxoax&theme=github&#41;)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxoax/oxoax/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oxoax/oxoax/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-Kevin1217/A-Kevin1217/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!---

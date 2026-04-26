@@ -3,15 +3,15 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=A-Kevin1217&show_icons=true&theme=github_dark">
 
 🙋‍♂️ I'm
-@小丞儿~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+@知鱼~<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 
 👀 Just like the name of my profile.
 
 ⚛️ I'm trying to improve my programming skills
 <br>
 <h4>
-<a href="https://github.com/CodeGetters">
-<img align="right" src="https://count.kjchmc.cn/get/@orange-example?theme=rule34" alt="小丞儿" />
+<a href="https://github.com/oxoax">
+<img align="right" src="http://api.ocoa.cn/api/mcj.php?type=image" alt="知鱼" />
 </a>
 </h3>
 
